@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Marcin Zalewski/OneDrive/Programming/Mobile/Kotlin/Flip the coin/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Kotlin/CoinToss/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.227" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Kotlin/CoinToss/app/src/main/res/drawable/ic_launcher_background.xml" value="0.227" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Kotlin/CoinToss/app/src/main/res/drawable/ic_splash.xml" value="0.227" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Kotlin/CoinToss/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Kotlin/CoinToss/app/src/main/res/layout/activity_splash.xml" value="0.2296195652173913" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Kotlin/CoinToss/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.227" />
+        <entry key="..\:/Users/Marcin/OneDrive/Programming/Mobile/Kotlin/Flip the coin/app/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

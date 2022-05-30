@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flip The Coin</string>
+    <string name="tap">TAP THE COIN TO FLIP</string>
+    <string name="coin">Coin</string>
+    <string name="total_attempts">Total attempts:</string>
+    <string name="heads">HEADS:</string>
+    <string name="tails">TAILS:</string>
+    <string name="start">Start again</string>
+</resources>
